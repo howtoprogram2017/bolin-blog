@@ -15,7 +15,7 @@ Bolin completed Master of Science Degree from  *September 2014* to *June 2018* i
 <--->
 
 
-![School](/Tsinghua.jpg "2000px")
+![School](https://github.com/howtoprogram2017/bolin-blog/blob/main/static/Tsinghua.jpg "2000px")
 
 {{%/columns %}}
 <!-- {{ with resources.Get "images/NYU_Tandon.jpg" }}

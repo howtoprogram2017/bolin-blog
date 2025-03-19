@@ -14,7 +14,7 @@ Bolin completed Master of Science Degree from  *September 2018* to *June 2020* i
 
 <--->
 
-![NYU](/NYU_Tandon.jpg "200px")
+![NYU](https://github.com/howtoprogram2017/bolin-blog/blob/main/static/NYU_Tandon.jpg "200px")
 
 {{%/ columns %}}
 <!-- {{ with resources.Get "images/NYU_Tandon.jpg" }}
